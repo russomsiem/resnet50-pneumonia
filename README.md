@@ -22,5 +22,4 @@ ResNet-50 is a type of a Convolutional Neural Net architecture that was develope
 
 
 *Note: The project was built on Google Colab. It is recommended you run the notebook on Colab. Building and training large CNN models is resource intensive. If you chose to run the model locally, please ensure there is sufficient hardware (GPU) to run the workload.*
-- The dataset can be found [here](https://nihcc.app.box.com/v/ChestXray-NIHCC)<br>
 - If you chose to run the notebook on Colab, follow this [tutorial](https://towardsdatascience.com/downloading-datasets-into-google-drive-via-google-colab-bcb1b30b0166) to learn how to mount data from Google Drive.
